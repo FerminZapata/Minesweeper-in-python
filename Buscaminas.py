@@ -1,10 +1,5 @@
 import pygame,random,os
 
-# HAY 3 MODOS DE JUEGO
-# Tablero 9 x 9 con 10 minas -- easy
-# Tablero 16 x 16 con 40 minas -- normal
-# Tablero 32 x 32 con 99 minas -- hard
-
 mode = "easy"
 
 if mode == "easy":
